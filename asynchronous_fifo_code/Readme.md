@@ -1,1 +1,1 @@
-This Directory contains all the codes of Asynchronous FIFO
+This contains the code files of the project.
