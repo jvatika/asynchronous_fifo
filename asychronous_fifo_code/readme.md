@@ -1,1 +1,1 @@
-This contains the source code file of the project.
+This contains the source code files of the project.
