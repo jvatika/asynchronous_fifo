@@ -1,1 +1,1 @@
-This contains the test bench files of the project.
+This contains the test bench file of the project.
