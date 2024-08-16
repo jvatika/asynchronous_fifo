@@ -1,1 +1,1 @@
-This Directory contains results of asychronous fifo
+This contains the results of the project.
